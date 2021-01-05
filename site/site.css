@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1{
+    width: 50%;
+    margin: 0 auto 0 auto;
+    margin-top: 10px;
+    font-size: 5.620rem;
+    line-height: 2;
+    
+}
+.describe{
+    font-size: 1.5rem;
+}
+h2{
+margin-top: 0%;
+}
+.intro{
+    background-color: #a3ddcb;
+    position: relative;
+    padding-top: 50px;
+    
+}
+.profile{
+    background-color: #e1d89f;
+    line-height: 2;
+    text-align: left;
+    padding-bottom: 100px;
+    font-size: 1.3rem;  
+}
+.bruno{
+    position: relative; 
+    float: left;
+    margin-right: 10px;
+    margin-top: 35px;
+    height: 200px;
+    width: 200px;
+}
+.skills{
+    background-color: #a3ddcb;
+    padding-bottom: 100px;
+    font-size: 1.3rem;
+}
+.skill-row{
+width: 50%;
+margin:  auto;
+line-height: 2;
+text-align: left;
+width: 100%;
+font-size: 1.3rem;
+padding-left: 10px;
+}
+.worldimage{
+    float: right;
+    position: relative;
+    margin-right: 30px;
+    height: 300px;
+    width: 300px;
+}
+
+.cloud-bottom{
+    position: absolute;
+}
+.help{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    float: left;
+    margin-bottom: 50px;
+    margin-right: 10px;
+}
+.contact-me{
+    text-align: center;
+    background-color: #c9cbff;
+}
+.bottom-container{
+    background-color: #c9cbff;
+   text-align: center;
+}
